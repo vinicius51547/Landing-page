@@ -1,0 +1,156 @@
+/* === THEME ===*/
+
+input[type="checkbox"] {
+    display: none;
+}
+
+.change-theme {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.change-theme img {
+    height: 30px;
+}
+
+.bi {
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.bi-moon {
+    display: none;
+}
+
+.dark .bi-sun {
+    display: none;
+}
+
+.dark .bi-moon {
+    display: block;
+}
+
+/* === DARK MODE === */
+
+/* === TOP === */
+.dark #top {
+    background-color: #011526;
+}
+
+/* === HEADER === */
+.dark header {
+    background-color: #011526;
+}
+
+.dark .ctt-button {
+    background-color: #fff;
+    color: #03223f;
+}
+
+.dark .txt-header {
+    color: #fff;
+}
+
+.dark .main-content .main-txt {
+    color: #f6f6f6;
+}
+
+.dark main .main-content {
+    color: #f6f6f6;
+}
+
+/* === FORM === */
+.dark #form {
+    background-color: #fff;
+}
+
+.dark #form h1 {
+    color: #000;
+}
+
+.dark button:hover {
+    color: #fff;
+}
+
+.dark button:after {
+    background: #000;
+}
+
+/* === SOBRE === */
+.dark .content-about {
+    background-color: #f6f6f6;
+}
+
+.dark .sobre h1 {
+    color: #000;
+}
+
+.dark .sobre p {
+    color: #000;
+}
+
+/* === SERVIÇO === */
+.dark #service {
+    background-color: #011526;
+}
+
+.dark .title-container h1 {
+    color: #fff;
+}
+
+.dark .txt-service h1 {
+    color: #fff;
+}
+
+.dark .sub-title {
+    color: #f6f6f6;
+}
+
+.dark .buttonn-about button:hover {
+    color: #000;
+}
+
+.dark .buttonn-about button:after {
+    background: #fff;
+}
+
+/* === FAQ === */
+.dark .faq-bg {
+    background-color: #f6f6f6;
+}
+
+.dark .txt-faq {
+    color: #000;
+}
+
+.dark .faq {
+    border: 2px solid #000;
+}
+
+.dark .question h3 {
+    color: #000;
+}
+
+.dark .answer-txt {
+    color: #011526;
+}
+
+/* === CHAMADA === */
+.dark .call {
+    background-color: #011526;
+}
+
+.dark .all-container p {
+    color: #f6f6f6;
+    font-size: 1.1rem;
+}
+
+.dark .buttonn-call button:hover {
+    color: #000;
+}
+
+.dark .buttonn-call button:after {
+    background: #fff;
+}
+
