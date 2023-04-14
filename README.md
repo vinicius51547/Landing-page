@@ -75,7 +75,7 @@ COMMIT;
 
 Crie o banco de dados com o nome bdcadastro em seguinda aperte em importar selecione o arquivo "bdcadastro", que está localizado dentro do arquivo do projeto na pasta "bd" o nome do arquivo é bdcadastro, selecione ele e depois aperte em importa no final da página ai deve da certo.
 
-### 🔗 Link do projeto hospedado e conectado com banco de dados: http://testeestagiofullstack.lovestoblog.com/index.php
+### 🔗 Link do projeto hospedado e conectado com banco de dados: http://landingpageteste.epizy.com/index.php
 ### 🌐 Imagens do projeto:
 
 <br><br><br>
