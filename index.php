@@ -265,7 +265,7 @@
     </section>
 
     <!-- INICIO CHAMADA -->
-    <section class="call" data-anime="down">
+    <section class="call">
         <div class="main-container center">
             <div class="all-container center">
                 <div class="container-call center" data-anime="down">
