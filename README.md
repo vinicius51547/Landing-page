@@ -13,7 +13,6 @@ Este projeto foi criado com base em uma imagem de uma página landing page, com 
 - Responsividade
 - Animações 
 - Modo dark e light theme
-- Resposivel
 
 ### 🛠 Tecnologias
 
